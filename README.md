@@ -18,9 +18,7 @@ The project is built using Html and Css with an extensive use of the grid, flex 
 
 ## Built With
 
-- HTML
-- CSS3
-- Font awesome icons
+- RUBY
 
 ## Live Demo
 
