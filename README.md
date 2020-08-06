@@ -7,7 +7,7 @@ This side-by-side comparative method is seen in the GIF image below.
 ![image](.github/animation.gif)
 
 ![screenshot](.github/bubble_sort.png)
-![screenshot](.github/bubble_sort_by.png)
+![screenshot](.github/bubble_sort_by2.png)
 
 > The second bubble sort method sorts an array of strings by the length of each element using the "yield" keyword and a code block.
 
