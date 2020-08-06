@@ -16,12 +16,12 @@ This side-by-side comparative method is seen in the GIF image below.
 
 ## Built With
 - Ruby
-- VSCode & Atom
+- VSCode
 - Rubocop
 
 ## Live Demo
 
-To quickly see our project in action, visit the [live demo](https://repl.it/@JosephBurke2/Bubble-Sort#main.rb) on repl.it.
+To quickly see our project in action, visit the [live demo](https://repl.it/@cristianCeamatu/Bubble-Sort#main.rb) on repl.it.
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ To get this project up and running, you must already have ruby installed on your
 
 3. Copy and paste the following code into the Terminal:
 
-    git clone https://github.com/Joseph-Burke/Bubble-Sort
+    git clone https://github.com/cristianCeamatu/microverse-bubble-sort.git
 
 4. Hit enter.
 
@@ -61,15 +61,14 @@ To get this project up and running, you must already have ruby installed on your
 - Twitter: [@twitterhandle](https://twitter.com/CeamatuV)
 - Linkedin: [linkedin](https://www.linkedin.com/in/ceamatu-cristian-viorel-7a5469136/)
 
-👤 **Aye Daniel**
-
-- Github: [@Alaska01](https://github.com/Alaska01)
-- Twitter: [@AyeAsoo](https://twitter.com/AyeAsoo)
-- Linkedin: [Daniel Asoo Aye](https://www.linkedin.com/in/daniel-asoo-aye-178500140/)
+👤**Muhammed Cihad Kurel**
+- Github: [@mcihadkurel](https://github.com/mcihadkurel)
+- Twitter: [@mece_ka](https://twitter.com/mece_ka)
+- LinkedIn: [@Muhammed Cihad Kurel](https://www.linkedin.com/in/muhammed-cihad-8187581a8/)
 
 ## 🤝 Contributing
 
-The best way you can contribute to this project is by submitting an [issue](https://github.com/Joseph-Burke/Bubble-Sort/issues) to help us improve it!
+The best way you can contribute to this project is by submitting an [issue](https://github.com/cristianCeamatu/microverse-bubble-sort/issues) to help us improve it!
 
 ## Show your support
 
@@ -82,4 +81,4 @@ If you've read this far, you must like the project! Give us a ⭐️!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project has no license
