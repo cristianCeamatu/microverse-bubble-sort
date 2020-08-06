@@ -51,7 +51,7 @@ def bubble_sort_by(array)
         
         break if !nextElement && iteration > array.length - index - 1
   
-        if element > nextElement
+        if yield(element, nextElement).positive?
           sorted = false
   
           array[index] = nextElement
@@ -70,3 +70,6 @@ def bubble_sort_by(array)
   
     array
   end
+
+testıng = bubble_sort_by(["hi","hello","hey", "hellog again", "h", "hm"]) { |left,right| left.length - right.length }
+p testıng
