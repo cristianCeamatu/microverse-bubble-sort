@@ -6,11 +6,12 @@ def bubble_sort(array)
   loop do
     # we make sorted true by default and in case we have any swap we will make it false
     sorted = true
+    iteration += 1
 
     array.each_with_index do |element, index|
       nextElement = array[index + 1]
       
-      break if !nextElement
+      break if !nextElement && iteration > array.length - index - 1
 
       if element > nextElement
         sorted = false
