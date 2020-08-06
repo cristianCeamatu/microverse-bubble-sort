@@ -30,7 +30,7 @@ def bubble_sort(array)
     break if sorted == true
   end
 
-  p array
+  array
 end
 
-bubble_sort([756545, 1, 5, 2, -20, 56, 999, 34, 546, 65464])
+p bubble_sort([756545, 1, 5, 2, -20, 56, 999, 34, 546, 65464])
