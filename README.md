@@ -4,11 +4,10 @@
 
 This side-by-side comparative method is seen in the GIF image below.
 
-![image](assets/bubble-sort-demonstration.gif)
+![image](.github/animation.gif)
 
-![screenshot](assets/bubble-sort-screenshot.png)
-
-> The first bubble sort method sorts an array of integers by value, comparing adjacent values with the <=> "spaceship" operator.
+![screenshot](.github/bubble_sort.png)
+![screenshot](.github/bubble_sort_by.png)
 
 > The second bubble sort method sorts an array of strings by the length of each element using the "yield" keyword and a code block.
 
