@@ -10,10 +10,11 @@ def bubble_sort(array)
     # With each loop we iterate all the array elements to check if we need to swap any
     # if we swap at least one element we set the sorted to false
     array.each_with_index do |element, index|
-      next_element = array[index + 1]
       # With each full iteration one more last element is already set
       # When we have n iteration, n elements from the end of the array are already set
       # We also break if the next element does not exist
+      next_element = array[index + 1]
+
       break if !next_element && iteration > array.length - index - 1
 
       if element > next_element
@@ -32,8 +33,6 @@ def bubble_sort(array)
 
   array
 end
-
-p bubble_sort([45, 1, 5, 2, -20, 56, 999, 34, 46, 64])
 
 def bubble_sort_by(array)
   iteration = 0
@@ -62,6 +61,3 @@ def bubble_sort_by(array)
 
   array
 end
-
-result = bubble_sort_by(['hi', 'hello', 'hey', 'hellog again', 'h', 'hm']) { |left, right| left.length - right.length }
-p result
